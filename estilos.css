@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+#contenido{
+    float: left;
+    padding: 30px;
+    border: 2px dotted #f00;
+}
+
+#zonadatos{
+    float: left;
+    width: 600px;
+    margin-left: 30px;
+    padding: 30px;
+    border: 2px dotted #00f;
+}
+
+#contenido span{
+    color: #0000FF;
+    cursor: pointer;
+}
